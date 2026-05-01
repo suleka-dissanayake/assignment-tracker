@@ -99,7 +99,7 @@ assignment-tracker/
 {
   "name": "Web Services and Technology",
   "code": "IT2234",
-  "lecturer": "Mr. Perera"
+  "lecturer": "Miss. Sivasorooby"
 }
 ```
 
@@ -109,8 +109,8 @@ assignment-tracker/
 {
   "title": "ICA-03 Web Services Project",
   "description": "Build a REST API using Node.js and MongoDB",
-  "subject": "<subject_id>",
-  "deadline": "2025-06-10T23:59:00.000Z",
+  "subject": "IT2234(P)",
+  "deadline": "2026-05-16",
   "status": "pending",
   "priority": "high"
 }
@@ -137,13 +137,13 @@ assignment-tracker/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/assignment-tracker.git
+git clone https://github.com/user/assignment-tracker.git
 cd assignment-tracker
 ```
 
 **2. Install dependencies**
 ```bash
-npm install
+npm init
 ```
 
 **3. Configure environment variables**
