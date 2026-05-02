@@ -137,7 +137,7 @@ assignment-tracker/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/user/assignment-tracker.git
+git clone https://github.com/suleka-dissanayake/assignment-tracker.git
 cd assignment-tracker
 ```
 
@@ -150,8 +150,8 @@ npm init
 
 Create a `.env` file in the root folder:
 ```
-MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/assignmentTrackerDB
-PORT=5000
+PORT = 5000
+MONGO_URI = "mongodb://localhost:27017/assignment-tracker"
 ```
 
 **4. Run the project**
